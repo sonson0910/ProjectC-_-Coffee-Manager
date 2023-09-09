@@ -1,0 +1,13 @@
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.AssemblyReference.cache
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAccountProfile.resources
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAdmin.resources
+D:\C#\CoffeeManager\GUIandProcessing\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.form.resources
